@@ -1,0 +1,170 @@
+
+
+body {
+  background-color: rgb(198, 240, 244);
+  margin: 0;
+
+}
+
+.header {
+  background-color: rgb(67, 44, 201);
+  padding: 30px;
+  margin-bottom: 200px;
+  text-align: center;
+}
+
+
+img {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  position: absolute;
+  left: 60px;
+  top: 32px;
+}
+
+ul, li {
+  margin: 20px;
+  color: #fff;
+  display: inline;
+}
+
+ul {
+/* position: absolute;
+right: 60px;
+top: 5px; */
+font-size: 14px;
+font-family: arial ;
+letter-spacing: 2px;
+font-weight: bold;
+}
+
+a {
+  color: #fff;
+  text-decoration: none; 
+}
+
+#myInput {
+  background-image: url('/img/search.jpg');
+}
+
+.login-page {
+  width: 360px;
+  padding: 10% 0 0;
+  margin: auto;
+}
+
+h1 {
+  margin: 0;
+  padding: 0, 0, 20px;
+  text-align: center;
+  font-size: 22px;
+  color: #fff;
+}
+
+.form {
+  position: relative;
+  z-index: 2;
+  background: rgba(7, 40, 195, 0.8);
+  max-width: 0 auto 100px;
+  padding: 45px;
+  color: #fff;
+  text-align: center;
+}
+
+.form input {
+  font-family: "Roboto", sans-serif;
+  outline: 1;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  font-size: 14px;
+}
+
+.form button {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #4caf50;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.form button:hover, .form button:active {
+  background: #43a0a7;
+}
+
+.form message {
+  margin: 15px 0 0;
+  color: aliceblue;
+  font-size: 12px;
+}
+
+.form.message a {
+  color: #4caf50;
+  text-decoration: none;
+}
+
+.form.register-form {
+  display: none;
+}
+
+
+.headerinput {
+  border-radius: 80%;
+}
+
+
+#header-search {
+  margin: 20px;
+}
+
+footer {
+  
+  background-color: rgb(67, 44, 201);
+  padding: 50px;
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  margin-top: 400px;
+
+}
+  /*background-color: rgb(67, 44, 201);
+  padding: 7% 15%;
+  margin-top: 400px;
+  text-align: center;
+  color: #fff;
+  font-size: 18px;
+}*/
+
+.clickitems {
+  line-height: 5rem;
+
+}
+
+button {
+  border-radius: 5%;
+  /*background-image: url("../../kick.png"); */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
